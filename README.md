@@ -16,4 +16,4 @@ Hands-on Active Directory home lab built in VMware — OUs, users, groups, GPOs,
 - Tools: Active Directory Users and Computers, Group Policy Management Console
 
 ## Documentation
-Full walkthrough with screenshots is in `AD_Home_Lab_Documentation.docx`
+Full walkthrough with screenshots is in `AD_Home_Lab_Documentation.pdf`
